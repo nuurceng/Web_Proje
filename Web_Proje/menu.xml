@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<menuyatay>
+  <menu id="1" Ad="Genel Bakış" />
+  <menu id="2" Ad="Hakkında" />
+  <menu id="3" Ad="Sosyal Medya" />
+</menuyatay>
